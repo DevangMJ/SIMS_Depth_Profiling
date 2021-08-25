@@ -1,2 +1,2 @@
 # SIMS_Depth_Profiling
-The names for the different experimental datasets are named as KingsCross, TingBin and 
+The names for the different experimental datasets are named as KingsCross, Tingbin and Morden 
